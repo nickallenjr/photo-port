@@ -17,5 +17,5 @@ describe('Gallery is rendering', () => {
         expect(asFragment()).toMatchSnapshot()
         
     })
-
+  
 })
